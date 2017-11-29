@@ -1,0 +1,42 @@
+\begin{thebibliography}{1}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\selectlanguage{#1}\fi}
+\providecommand*{\href}[2]{{\small #2}}
+\providecommand*{\url}[1]{{\small #1}}
+\providecommand*{\BibUrl}[1]{\url{#1}}
+\providecommand{\BibAnnote}[1]{}
+\providecommand*{\BibEmph}[1]{#1}
+\ProvideTextCommandDefault{\cyrdash}{\iflanguage{russian}{\hbox
+  to.8em{--\hss--}}{\textemdash}}
+\providecommand*{\BibDash}{\ifdim\lastskip>0pt\unskip\nobreak\hskip.2em plus
+  0.1em\fi
+\cyrdash\hskip.2em plus 0.1em\ignorespaces}
+\renewcommand{\newblock}{\ignorespaces}
+
+\bibitem{asimov1950robot}
+\selectlanguageifdefined{english}
+\BibEmph{Asimov,~I.} I, Robot~/ I.~Asimov. Robot series. \BibDash
+\newblock Bantam Books, 1950. \BibDash
+\newblock \BibUrl{ https://books.google.com.ua/books?id=MD0GAQAAIAAJ}.
+
+\bibitem{simplemind}
+\selectlanguageifdefined{english}
+Home. \BibDash
+\newblock \BibUrl{ https://simplemind.eu/}.
+
+\bibitem{hopper2015practicing}
+\selectlanguageifdefined{english}
+\BibEmph{Hopper,~C.} Practicing College Learning Strategies~/ C.H.~Hopper.
+  \BibDash
+\newblock Cengage Learning, 2015. \BibDash
+\newblock \BibUrl{ https://books.google.com.ua/books?id=JkxTCwAAQBAJ}.
+
+\bibitem{MerriamWebster2009}
+\selectlanguageifdefined{english}
+\BibEmph{{Merriam-Webster Online}}. {Merriam-Webster Online Dictionary}.
+  \BibDash
+\newblock 2017. \BibDash
+\newblock \BibUrl{ http://www.merriam-webster.com}.
+
+\end{thebibliography}

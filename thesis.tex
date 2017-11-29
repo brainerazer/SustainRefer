@@ -1,0 +1,76 @@
+% ********** Приклад оформлення пояснювальної записки **********
+% *********  до атестаційної роботи ступеня бакалавра **********
+% ************* автори: Тавров Д. Ю., Сахаров С. Ю. ************
+
+% зазначаємо стильовий файл, який будемо використовувати
+
+\documentclass{bachelor_thesis}
+% \usepackage{fontspec}
+
+
+\usepackage{verbatim}
+\newcommand{\Mod}[1]{\ (\text{mod}\ #1)}
+\DeclareMathOperator{\ind}{ind}
+
+
+
+\theoremstyle{definition}
+\newtheorem{definition}{Визначення}[chapter]
+
+% починаємо верстку документа
+\begin{document}
+
+% \input{Chapters/abstract}
+
+% створюємо зміст
+% \includepdf[pages={-}]{abstract.pdf}
+\pagenumbering{gobble}
+\tableofcontents
+\cleardoublepage
+\pagenumbering{arabic}
+\setcounter{page}{3}
+
+% створюємо перелік умовних позначень, скорочень і термінів
+% \input{chapters/shortings}
+\input{chapters/intro}
+
+\input{chapters/existing_systems}
+% \input{chapters/index_calculus}
+% \input{chapters/real}
+
+% висновки
+\input{chapters/conclusions}
+% \input{chapters/bibliography}
+\bibliography{thesis}
+\bibliographystyle{gost780s} 
+% % створюємо додатки
+% % перший додаток повинен містити лістинги розроблених програм
+% \append{Лістинги програм}
+
+% % кожний лістинг вставляється в додаток за допомогою спеціальної команди,
+% % перший аргумент якої --- це заголовок, який з'являтиметься в тексті,
+% % другий --- шлях до файлу з лістингом
+% \listing{presenter.h --- прототип пред'явника-вчителя}{SRC/Presenter/presenter.h}
+
+% \listing{presenter.cpp --- реалізація пред'явника-вчителя}{SRC/Presenter/presenter.cpp}
+
+% \input{chapters/appendix_firstrun}
+
+% % останній додаток повинен містити слайди презентації доповіді на захисті дипломної роботи
+% \append{Ілюстративний матеріал}
+
+% \begin{figure}[!htp]%
+% 	\centering
+% 	\includegraphics[scale = 0.43]{PNG/slide1.png}%
+% 	\caption{Слайд 1}%
+% 	\label{fig:p1}%
+% \end{figure}
+
+% \begin{figure}[!htp]%
+% 	\centering
+% 	\includegraphics[scale = 0.455]{PNG/slide2.png}%
+% 	\caption{Слайд 2}%
+% 	\label{fig:p2}%
+% \end{figure}
+
+\end{document}
