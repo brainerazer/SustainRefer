@@ -20,6 +20,22 @@
 \newblock Bantam Books, 1950. \BibDash
 \newblock \BibUrl{ https://books.google.com.ua/books?id=MD0GAQAAIAAJ}.
 
+\bibitem{econinfo}
+\selectlanguageifdefined{english}
+\BibEmph{Economist,~T.} {Automation and anxiety}. \BibDash
+\newblock
+  \url{https://www.economist.com/news/special-report/21700758-will-smarter-machines-cause-mass-unemployment-automation-and-anxiety}.
+  \BibDash
+\newblock 2017. \BibDash
+\newblock [Online; accessed 20-Nov-2017].
+
+\bibitem{giniukr}
+\selectlanguageifdefined{english}
+{GINI Index for the Ukraine}. \BibDash
+\newblock \url{https://fred.stlouisfed.org/series/SIPOVGINIUKR}. \BibDash
+\newblock 2017. \BibDash
+\newblock [Online; accessed 20-Nov-2017].
+
 \bibitem{simplemind}
 \selectlanguageifdefined{english}
 Home. \BibDash
@@ -38,5 +54,25 @@ Home. \BibDash
   \BibDash
 \newblock 2017. \BibDash
 \newblock \BibUrl{ http://www.merriam-webster.com}.
+
+\bibitem{pwc}
+\selectlanguageifdefined{english}
+\BibEmph{PwC}. {Will robots steal our jobs? The potential impact of automation
+  on the UK and other major economies}. \BibDash
+\newblock
+  \url{https://www.pwc.co.uk/economic-services/ukeo/pwcukeo-section-4-automation-march-2017-v2.pdf}.
+  \BibDash
+\newblock 2017. \BibDash
+\newblock [Online; accessed 20-Nov-2017].
+
+\bibitem{ukrstatemployment}
+\selectlanguageifdefined{english}
+{Зайняте населення за видами економічної
+  діяльності у 2012-2016 роках}. \BibDash
+\newblock
+  \url{http://www.ukrstat.gov.ua/operativ/operativ2014/rp/zn_ed/zn_ed_u/zn_ed_2013_u.htm}.
+  \BibDash
+\newblock 2017. \BibDash
+\newblock [Online; accessed 20-Nov-2017].
 
 \end{thebibliography}
