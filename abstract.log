@@ -1,10 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.11.15)  29 NOV 2017 21:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=latex 2017.11.15)  29 NOV 2017 21:23
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/bohdan/Documents/refer_sustainable/thesis.tex
-(/Users/bohdan/Documents/refer_sustainable/thesis.tex
+**abstract.tex
+(./abstract.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (./bachelor_thesis.cls
@@ -39,8 +38,11 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/cmap/cmap.sty
 Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/base/fontenc.sty
+
+
+Package cmap Warning: pdftex in DVI mode - exiting.
+
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/cyrillic/t2aenc.def
@@ -51,7 +53,7 @@ LaTeX Font Info:    Try loading font information for T2A+cmr on input line 105.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)<<t2a.cmap>>)
+))
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks14
@@ -1475,7 +1477,7 @@ File: greek-fontenc.def 2015/08/04 v0.13 Common Greek font encoding definitions
 )) (/usr/local/texlive/2017/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
-)<<t1.cmap>>)
+))
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
@@ -1757,18 +1759,10 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 99.
+Package graphics Info: Driver file: dvips.def on input line 99.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count102
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2016/07/10 v3.1a Driver-dependent file (DPC,SPQR)
 ))
 \Gin@req@height=\dimen114
 \Gin@req@width=\dimen115
@@ -1790,19 +1784,19 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 \caption@parindent=\dimen121
 \caption@hangindent=\dimen122
 )
-\c@ContinuedFloat=\count103
+\c@ContinuedFloat=\count102
 )
-\c@KVtest=\count104
+\c@KVtest=\count103
 \sf@farskip=\skip49
 \sf@captopadj=\dimen123
 \sf@capskip=\skip50
 \sf@nearskip=\skip51
-\c@subfigure=\count105
-\c@subfigure@save=\count106
-\c@lofdepth=\count107
-\c@subtable=\count108
-\c@subtable@save=\count109
-\c@lotdepth=\count110
+\c@subfigure=\count104
+\c@subfigure@save=\count105
+\c@lofdepth=\count106
+\c@subtable=\count107
+\c@subtable@save=\count108
+\c@lotdepth=\count109
 \sf@top=\skip52
 \sf@bottom=\skip53
 )
@@ -1813,18 +1807,18 @@ Already applied: [0000/00/00] float order in 2-column on input line 151.
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/xtab/xtab.sty
 Package: xtab 2011/07/31 v2.3f Extended supertabular package
-\c@tracingst=\count111
+\c@tracingst=\count110
 \PWSTcapht=\dimen124
 \ST@wd=\dimen125
 \ST@rightskip=\skip54
 \ST@leftskip=\skip55
 \ST@parfillskip=\skip56
-\c@PWSTtable=\count112
-\PWSTlastpage=\count113
-\PWSTpenultimate=\count114
-\PWSTcurpage=\count115
-\PWSTtempc=\count116
-\PWSTlines=\count117
+\c@PWSTtable=\count111
+\PWSTlastpage=\count112
+\PWSTpenultimate=\count113
+\PWSTcurpage=\count114
+\PWSTtempc=\count115
+\PWSTlines=\count116
 \PWST@lastht=\dimen126
 \PWST@generalht=\dimen127
 \PWST@ht=\dimen128
@@ -1846,22 +1840,22 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \LTright=\skip58
 \LTpre=\skip59
 \LTpost=\skip60
-\LTchunksize=\count118
+\LTchunksize=\count117
 \LTcapwidth=\dimen139
 \LT@head=\box29
 \LT@firsthead=\box30
 \LT@foot=\box31
 \LT@lastfoot=\box32
-\LT@cols=\count119
-\LT@rows=\count120
-\c@LT@tables=\count121
-\c@LT@chunks=\count122
+\LT@cols=\count118
+\LT@rows=\count119
+\c@LT@tables=\count120
+\c@LT@chunks=\count121
 \LT@p@ftn=\toks30
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
 \multirow@colwidth=\skip61
-\multirow@cntb=\count123
+\multirow@cntb=\count122
 \multirow@dima=\skip62
 \bigstrutjot=\dimen140
 )
@@ -1886,9 +1880,9 @@ Package ifvtex Info: VTeX not detected.
 (/usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count124
-\Gm@cntv=\count125
-\c@Gm@tempcnt=\count126
+\Gm@cnth=\count123
+\Gm@cntv=\count124
+\c@Gm@tempcnt=\count125
 \Gm@bindingoffset=\dimen143
 \Gm@wd@mp=\dimen144
 \Gm@odd@mp=\dimen145
@@ -1920,7 +1914,7 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@outerparindent=\dimen151
 \enit@toks=\toks34
 \enit@inbox=\box33
-\enitdp@description=\count127
+\enitdp@description=\count126
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
@@ -1939,7 +1933,7 @@ Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count128
+\etb@tempcnta=\count127
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
@@ -2005,23 +1999,23 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 Package: icomma 2002/03/10 v2.0 (WaS)
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count129
+\lst@mode=\count128
 \lst@gtempboxa=\box35
 \lst@token=\toks36
-\lst@length=\count130
+\lst@length=\count129
 \lst@currlwidth=\dimen157
-\lst@column=\count131
-\lst@pos=\count132
+\lst@column=\count130
+\lst@pos=\count131
 \lst@lostspace=\dimen158
 \lst@width=\dimen159
-\lst@newlines=\count133
-\lst@lineno=\count134
+\lst@newlines=\count132
+\lst@lineno=\count133
 \lst@maxwidth=\dimen160
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-\c@lstnumber=\count135
-\lst@skipnumbers=\count136
+\c@lstnumber=\count134
+\lst@skipnumbers=\count135
 \lst@framebox=\box36
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.cfg
@@ -2039,8 +2033,8 @@ Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
-Package hobsub Info: Skipping package `infwarerr' (already loaded).
-Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 Package hobsub Info: Skipping package `ifvtex' (already loaded).
@@ -2058,7 +2052,7 @@ Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
+Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
 Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
 Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
 )
@@ -2081,14 +2075,14 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen161
-\Hy@linkcounter=\count137
-\Hy@pagecounter=\count138
+\Hy@linkcounter=\count136
+\Hy@pagecounter=\count137
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
 \symPD1letters=\mathgroup9
 )
-\Hy@SavedSpaceFactor=\count139
+\Hy@SavedSpaceFactor=\count138
 Package hyperref Info: Option `unicode' set `true' on input line 3453.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/puenc.def
@@ -2105,10 +2099,10 @@ Package hyperref Info: Plain pages OFF on input line 4513.
 Package hyperref Info: Backreferencing OFF on input line 4518.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4751.
-\c@Hy@tempcnt=\count140
+\c@Hy@tempcnt=\count139
 LaTeX Info: Redefining \url on input line 5104.
 \XeTeXLinkMargin=\dimen162
-\Fld@menulength=\count141
+\Fld@menulength=\count140
 \Field@Width=\dimen163
 \Fld@charsize=\dimen164
 Package hyperref Info: Hyper figures OFF on input line 6358.
@@ -2120,15 +2114,23 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6383.
 Package hyperref Info: PDF/A mode OFF on input line 6388.
 LaTeX Info: Redefining \ref on input line 6428.
 LaTeX Info: Redefining \pageref on input line 6432.
-\Hy@abspage=\count142
-\c@Item=\count143
-\c@Hfootnote=\count144
+\Hy@abspage=\count141
+\c@Item=\count142
+\c@Hfootnote=\count143
 )
 
-Package hyperref Message: Driver (autodetected): hpdftex.
+Package hyperref Message: Driver (default): hdvips.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
+(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hdvips.def
+File: hdvips.def 2017/03/14 v6.85a Hyperref driver for dvips
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/pdfmark.def
+File: pdfmark.def 2017/03/14 v6.85a Hyperref definitions for pdfmark specials
+\pdf@docset=\toks37
+\pdf@box=\box37
+\pdf@toks=\toks38
+\pdf@defaulttoks=\toks39
+\HyField@AnnotCount=\count144
 \Fld@listcount=\count145
 \c@bookmark@seq@number=\count146
 
@@ -2138,11 +2140,11 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip125
-)
+))
 (/usr/local/texlive/2017/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks37
-\verbatim@line=\toks38
+\every@verbatim=\toks40
+\verbatim@line=\toks41
 \verbatim@in@stream=\read1
 )
 \c@appendnum=\count147
@@ -2155,120 +2157,83 @@ File: ttlkeys.def 2016/03/15
 )
 \c@dummy=\count148
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen165
-\WF@size=\dimen166
-\c@WF@wrappedlines=\count149
-\WF@box=\box37
-\WF@everypar=\toks39
-Package: wrapfig 2003/01/31  v 3.6
-)
-\c@definition=\count150
+\c@definition=\count149
 
-(./thesis.aux)
-\openout1 = `thesis.aux'.
+(./abstract.aux)
+\openout1 = `abstract.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT2/cmr/m/n on input line 22.
-LaTeX Font Info:    Try loading font information for OT2+cmr on input line 22.
- (/usr/local/texlive/2017/texmf-dist/tex/latex/cyrillic/ot2cmr.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT2/cmr/m/n on input line 19.
+LaTeX Font Info:    Try loading font information for OT2+cmr on input line 19.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/cyrillic/ot2cmr.fd
 File: ot2cmr.fd 2001/08/11 v3.2c Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T2C/cmr/m/n on input line 22.
-LaTeX Font Info:    Try loading font information for T2C+cmr on input line 22.
- (/usr/local/texlive/2017/texmf-dist/tex/latex/cyrillic/t2ccmr.fd
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T2C/cmr/m/n on input line 19.
+LaTeX Font Info:    Try loading font information for T2C+cmr on input line 19.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/cyrillic/t2ccmr.fd
 File: t2ccmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T2B/cmr/m/n on input line 22.
-LaTeX Font Info:    Try loading font information for T2B+cmr on input line 22.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T2B/cmr/m/n on input line 19.
+LaTeX Font Info:    Try loading font information for T2B+cmr on input line 19.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/cyrillic/t2bcmr.fd
 File: t2bcmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 22.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 22.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 19.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 19.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2016/03/04 v1.1 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 22.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 19.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Try loading font information for T1+Tempora-TLF on input li
-ne 22.
+ne 19.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/tempora/T1Tempora-TLF.fd
 File: T1Tempora-TLF.fd 2016/02/02 (autoinst) Font definitions for T1/Tempora-TL
 F.
 )
 LaTeX Font Info:    Font shape `T1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 22.
+(Font)              scaled to size 14.4pt on input line 19.
 LaTeX Font Info:    Try loading font information for T2A+Tempora-TLF on input l
-ine 22.
+ine 19.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/tempora/t2atempora-tlf.fd
 File: t2atempora-tlf.fd 2015/09/13 Font definitions for T2A/Tempora-TLF.
 )
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 22.
-\c@mv@tabular=\count151
-\c@mv@boldtabular=\count152
-
-(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count153
-\scratchdimen=\dimen167
-\scratchbox=\box38
-\nofMPsegments=\count154
-\nofMParguments=\count155
-\everyMPshowfont=\toks40
-\MPscratchCnt=\count156
-\MPscratchDim=\dimen168
-\MPnumerator=\count157
-\makeMPintoPDFobject=\count158
-\everyMPtoPDFconversion=\toks41
-) (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-)
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
+(Font)              scaled to size 14.4pt on input line 19.
+\c@mv@tabular=\count150
+\c@mv@boldtabular=\count151
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: hyperref package is loaded.
@@ -2279,13 +2244,12 @@ Package caption Info: longtable package is loaded.
 Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
 )
 Package caption Info: xtab package is loaded.
-Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
 *geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
+*geometry* detected driver: dvips
 *geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
+* driver: dvips
 * paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -2316,94 +2280,80 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@lstlisting=\count159
-\AtBeginShipoutBox=\box39
-Package hyperref Info: Link coloring OFF on input line 22.
+\c@lstlisting=\count152
+\AtBeginShipoutBox=\box38
+Package hyperref Info: Link coloring OFF on input line 19.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
 (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count160
+\c@section@level=\count153
 )
-LaTeX Info: Redefining \ref on input line 22.
-LaTeX Info: Redefining \pageref on input line 22.
-LaTeX Info: Redefining \nameref on input line 22.
+LaTeX Info: Redefining \ref on input line 19.
+LaTeX Info: Redefining \pageref on input line 19.
+LaTeX Info: Redefining \nameref on input line 19.
 
-(./thesis.out) (./thesis.out)
+(./abstract.out) (./abstract.out)
 \@outlinefile=\write3
-\openout3 = `thesis.out'.
+\openout3 = `abstract.out'.
 
- (./thesis.toc<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
-LaTeX Font Info:    Try loading font information for U+msa on input line 2.
- (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+ (./chapters/abstract.tex
+LaTeX Font Info:    Font shape `T2A/Tempora-TLF/bx/n' in size <14.4> not availa
+ble
+(Font)              Font shape `T2A/Tempora-TLF/b/n' tried instead on input lin
+e 4.
+LaTeX Font Info:    Font shape `T2A/Tempora-TLF/b/n' will be
+(Font)              scaled to size 14.4pt on input line 4.
+LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
+(Font)              scaled to size 14.0pt on input line 6.
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 14.
+LaTeX Font Info:    Try loading font information for U+msa on input line 14.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 2.
+LaTeX Font Info:    Try loading font information for U+msb on input line 14.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OML+Tempora-TLF on input l
-ine 2.
-LaTeX Font Info:    No file OMLTempora-TLF.fd. on input line 2.
+ine 14.
+LaTeX Font Info:    No file OMLTempora-TLF.fd. on input line 14.
 
 
 LaTeX Font Warning: Font shape `OML/Tempora-TLF/m/n' undefined
-(Font)              using `OML/cmm/m/it' instead on input line 2.
+(Font)              using `OML/cmm/m/it' instead on input line 14.
 
 LaTeX Font Info:    Try loading font information for OMS+Tempora-TLF on input l
-ine 2.
-LaTeX Font Info:    No file OMSTempora-TLF.fd. on input line 2.
+ine 14.
+LaTeX Font Info:    No file OMSTempora-TLF.fd. on input line 14.
 
 LaTeX Font Warning: Font shape `OMS/Tempora-TLF/m/n' undefined
-(Font)              using `OMS/cmsy/m/n' instead on input line 2.
+(Font)              using `OMS/cmsy/m/n' instead on input line 14.
 
 LaTeX Font Info:    Try loading font information for PD1+Tempora-TLF on input l
-ine 2.
-LaTeX Font Info:    No file PD1Tempora-TLF.fd. on input line 2.
+ine 14.
+LaTeX Font Info:    No file PD1Tempora-TLF.fd. on input line 14.
 
 LaTeX Font Warning: Font shape `PD1/Tempora-TLF/m/n' undefined
-(Font)              using `PD1/pdf/m/n' instead on input line 2.
+(Font)              using `PD1/pdf/m/n' instead on input line 14.
 
 LaTeX Font Info:    Try loading font information for PU+Tempora-TLF on input li
-ne 2.
-LaTeX Font Info:    No file PUTempora-TLF.fd. on input line 2.
+ne 14.
+LaTeX Font Info:    No file PUTempora-TLF.fd. on input line 14.
 
 LaTeX Font Warning: Font shape `PU/Tempora-TLF/m/n' undefined
-(Font)              using `PU/pdf/m/n' instead on input line 2.
+(Font)              using `PU/pdf/m/n' instead on input line 14.
 
-)
-\tf@toc=\write4
-\openout4 = `thesis.toc'.
-
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 31.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 31.
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 31.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 31.
- [1
-
-
-{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./chapters/intro.tex
-LaTeX Font Info:    Font shape `T2A/Tempora-TLF/bx/n' in size <14.4> not availa
-ble
+LaTeX Font Info:    Font shape `T2A/Tempora-TLF/bx/n' in size <14> not availabl
+e
 (Font)              Font shape `T2A/Tempora-TLF/b/n' tried instead on input lin
-e 3.
+e 16.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 3.
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 3.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 3.
-LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/it' will be
-(Font)              scaled to size 14.4pt on input line 14.
-) (./chapters/existing_systems.tex
+(Font)              scaled to size 14.0pt on input line 16.
 
 Package Fancyhdr Warning: \headheight is too small (14.0pt): 
  Make it at least 17.0pt.
@@ -2411,256 +2361,26 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 9.
+(babel)             in language  on input line 32.
 Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 9.
+(babel)             in language  on input line 32.
 Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 9.
+(babel)             in language  on input line 32.
 Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 9.
-[3
-
-
-]
-{\Ukrainian \CYRR \cyro \cyrz \cyrd \cyrii \cyrl } 1.
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 9.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 9.
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 56.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 56.
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 56.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 56.
+(babel)             in language  on input line 32.
 [4
 
-] <PNG/mindmap.png, id=109, 992.70876pt x 492.84125pt>
-File: PNG/mindmap.png Graphic file (type png)
- <use PNG/mindmap.png>
-Package pdftex.def Info: PNG/mindmap.png used on input line 75.
-(pdftex.def)             Requested size: 496.35316pt x 246.42001pt.
-
-Overfull \hbox (26.88268pt too wide) in paragraph at lines 75--76
- [][] 
- []
-
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 82.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 82.
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 82.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 82.
-[5 <./PNG/mindmap.png>]
-{\Ukrainian \CYRR \cyro \cyrz \cyrd \cyrii \cyrl } 2.
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 82.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 82.
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 85.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 85.
-<PNG/economist.png, id=120, 1284.8pt x 1807.75375pt>
-File: PNG/economist.png Graphic file (type png)
- <use PNG/economist.png>
-Package pdftex.def Info: PNG/economist.png used on input line 116.
-(pdftex.def)             Requested size: 244.11453pt x 343.47679pt.
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 129.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 129.
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 129.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 129.
-
-[6
 
 ]
 Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 130.
+(babel)             in language  on input line 51.
 Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 130.
- <PNG/income_us.png, id=133, 532.99126pt x 302.3295pt>
-File: PNG/income_us.png Graphic file (type png)
-
-<use PNG/income_us.png>
-Package pdftex.def Info: PNG/income_us.png used on input line 138.
-(pdftex.def)             Requested size: 373.09134pt x 211.6292pt.
+(babel)             in language  on input line 51.
 Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 145.
+(babel)             in language  on input line 51.
 Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 145.
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 145.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 145.
- [7 <./PNG/economist.png>]
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 146.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 146.
-
-<PNG/GlobalTemp.png, id=144, 1122.1925pt x 562.1pt>
-File: PNG/GlobalTemp.png Graphic file (type png)
- <use PNG/GlobalTemp.png>
-Package pdftex.def Info: PNG/GlobalTemp.png used on input line 156.
-(pdftex.def)             Requested size: 448.86905pt x 224.83601pt.
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 165.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 165.
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 165.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 165.
-
-[8 <./PNG/income_us.png>]
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 166.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 166.
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 177.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 177.
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 177.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 177.
- [9 <./PNG/GlobalTemp.png>]
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 183.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 183.
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 185.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 185.
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 185.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 185.
- [10]
-{\Ukrainian \CYRR \cyro \cyrz \cyrd \cyrii \cyrl } 3.
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 185.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 185.
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 186.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 186.
-<PNG/china.png, id=171, 1099.10625pt x 511.9125pt>
-File: PNG/china.png Graphic file (type png)
- <use PNG/china.png>
-Package pdftex.def Info: PNG/china.png used on input line 199.
-(pdftex.def)             Requested size: 439.6347pt x 204.76137pt.
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 207.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 207.
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 207.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 207.
- [11
-
- <./PNG/china.png>]
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 209.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 209.
-
-<PNG/PopulationPyramideUkraine1959.PNG, id=184, 812.03375pt x 747.79375pt>
-File: PNG/PopulationPyramideUkraine1959.PNG Graphic file (type png)
-
-<use PNG/PopulationPyramideUkraine1959.PNG>
-Package pdftex.def Info: PNG/PopulationPyramideUkraine1959.PNG used on input li
-ne 221.
-(pdftex.def)             Requested size: 324.80774pt x 299.1122pt.
-
-<PNG/PopulationPyramideUkraine2013.PNG, id=185, 812.03375pt x 747.79375pt>
-File: PNG/PopulationPyramideUkraine2013.PNG Graphic file (type png)
-
-<use PNG/PopulationPyramideUkraine2013.PNG>
-Package pdftex.def Info: PNG/PopulationPyramideUkraine2013.PNG used on input li
-ne 228.
-(pdftex.def)             Requested size: 324.80774pt x 299.1122pt.
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 233.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 233.
-) (./chapters/conclusions.tex
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 3.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 3.
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 3.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 3.
-
-[12]
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 3.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 3.
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 3.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 3.
- [13 <./PNG/PopulationPyramideUkraine1959.PNG> <./PNG/PopulationPyramideUkraine
-2013.PNG>]
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 3.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 3.
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 3.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 3.
- [14]
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 3.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 3.
-) (./thesis.bbl
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 1.
- [15
-
-]
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 1.
-
-Overfull \hbox (50.60657pt too wide) in paragraph at lines 44--50
-\T2A/Tempora-TLF/m/n/14.4 21700758-[]will-[]smarter-[]machines-[]cause-[]mass-[
-]unemployment-[]automation-[]and-[]anxiety$[]. ^^V
- []
-
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 92.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 92.
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 92.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 92.
-[16
+(babel)             in language  on input line 51.
+ [5
 
 ])
 
@@ -2668,47 +2388,46 @@ Package caption Warning: Unused \captionsetup[table] on input line 275.
 See the caption package documentation for explanation.
 
 
+Package caption Warning: Unused \captionsetup[figure] on input line 276.
+See the caption package documentation for explanation.
+
+
 Package caption Warning: Unused \captionsetup[lstlisting] on input line 277.
 See the caption package documentation for explanation.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 78.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 165.
 Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 78.
+(babel)             in language  on input line 165.
 Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 78.
+(babel)             in language  on input line 165.
 Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 78.
+(babel)             in language  on input line 165.
 Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 78.
-[17]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 78.
- (./thesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 78.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 78.
-Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 13171EB2A71F53757A81E035D96A94E9;3029.
+(babel)             in language  on input line 165.
+[6
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 165.
+ (./abstract.aux
+LaTeX Font Info:    Font shape `T1/Tempora-TLF/m/n' will be
+(Font)              scaled to size 14.0pt on input line 20.
+)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 165.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 165.
+Package rerunfilecheck Info: File `abstract.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 18338 strings out of 492995
- 265066 string characters out of 6132703
- 340299 words of memory out of 5000000
- 21469 multiletter control sequences out of 15000+600000
- 20480 words of font info for 37 fonts, out of 8000000 for 9000
+ 17565 strings out of 492996
+ 253686 string characters out of 6132729
+ 330002 words of memory out of 5000000
+ 20835 multiletter control sequences out of 15000+600000
+ 27257 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,10n,98p,1343b,615s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/tempora/t2a-tempora.enc}<
-/usr/local/texlive/2017/texmf-dist/fonts/type1/public/tempora/Tempora-Bold.pfb>
-</usr/local/texlive/2017/texmf-dist/fonts/type1/public/tempora/Tempora-Italic.p
-fb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/tempora/Tempora-Regul
-ar.pfb>
-Output written on thesis.pdf (16 pages, 1085389 bytes).
-PDF statistics:
- 264 PDF objects out of 1000 (max. 8388607)
- 222 compressed objects within 3 object streams
- 59 named destinations out of 1000 (max. 500000)
- 172 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 68i,10n,98p,1303b,452s stack positions out of 5000i,500n,10000p,200000b,80000s
 
+Output written on abstract.dvi (3 pages, 12780 bytes).
