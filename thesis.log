@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.11.15)  29 NOV 2017 21:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.11.15)  6 DEC 2017 14:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/bohdan/Documents/refer_sustainable/thesis.tex
-(/Users/bohdan/Documents/refer_sustainable/thesis.tex
+**/Users/bohdanrybak/Documents/pers/SustainRefer/thesis.tex
+(/Users/bohdanrybak/Documents/pers/SustainRefer/thesis.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (./bachelor_thesis.cls
@@ -2437,7 +2437,7 @@ Package babel Info: Redefining ukrainian shorthand "~
 (babel)             in language  on input line 56.
 [4
 
-] <PNG/mindmap.png, id=109, 992.70876pt x 492.84125pt>
+] <PNG/mindmap.png, id=124, 992.70876pt x 492.84125pt>
 File: PNG/mindmap.png Graphic file (type png)
  <use PNG/mindmap.png>
 Package pdftex.def Info: PNG/mindmap.png used on input line 75.
@@ -2465,7 +2465,7 @@ Package babel Info: Redefining ukrainian shorthand "|
 (babel)             in language  on input line 85.
 Package babel Info: Redefining ukrainian shorthand "~
 (babel)             in language  on input line 85.
-<PNG/economist.png, id=120, 1284.8pt x 1807.75375pt>
+<PNG/economist.png, id=135, 1284.8pt x 1807.75375pt>
 File: PNG/economist.png Graphic file (type png)
  <use PNG/economist.png>
 Package pdftex.def Info: PNG/economist.png used on input line 116.
@@ -2486,7 +2486,7 @@ Package babel Info: Redefining ukrainian shorthand "|
 (babel)             in language  on input line 130.
 Package babel Info: Redefining ukrainian shorthand "~
 (babel)             in language  on input line 130.
- <PNG/income_us.png, id=133, 532.99126pt x 302.3295pt>
+ <PNG/income_us.png, id=148, 532.99126pt x 302.3295pt>
 File: PNG/income_us.png Graphic file (type png)
 
 <use PNG/income_us.png>
@@ -2506,7 +2506,7 @@ Package babel Info: Redefining ukrainian shorthand "|
 Package babel Info: Redefining ukrainian shorthand "~
 (babel)             in language  on input line 146.
 
-<PNG/GlobalTemp.png, id=144, 1122.1925pt x 562.1pt>
+<PNG/GlobalTemp.png, id=159, 1122.1925pt x 562.1pt>
 File: PNG/GlobalTemp.png Graphic file (type png)
  <use PNG/GlobalTemp.png>
 Package pdftex.def Info: PNG/GlobalTemp.png used on input line 156.
@@ -2556,7 +2556,7 @@ Package babel Info: Redefining ukrainian shorthand "|
 (babel)             in language  on input line 186.
 Package babel Info: Redefining ukrainian shorthand "~
 (babel)             in language  on input line 186.
-<PNG/china.png, id=171, 1099.10625pt x 511.9125pt>
+<PNG/china.png, id=186, 1099.10625pt x 511.9125pt>
 File: PNG/china.png Graphic file (type png)
  <use PNG/china.png>
 Package pdftex.def Info: PNG/china.png used on input line 199.
@@ -2577,25 +2577,87 @@ Package babel Info: Redefining ukrainian shorthand "|
 Package babel Info: Redefining ukrainian shorthand "~
 (babel)             in language  on input line 209.
 
-<PNG/PopulationPyramideUkraine1959.PNG, id=184, 812.03375pt x 747.79375pt>
+<PNG/PopulationPyramideUkraine1959.PNG, id=199, 812.03375pt x 747.79375pt>
 File: PNG/PopulationPyramideUkraine1959.PNG Graphic file (type png)
 
 <use PNG/PopulationPyramideUkraine1959.PNG>
 Package pdftex.def Info: PNG/PopulationPyramideUkraine1959.PNG used on input li
-ne 221.
+ne 222.
 (pdftex.def)             Requested size: 324.80774pt x 299.1122pt.
 
-<PNG/PopulationPyramideUkraine2013.PNG, id=185, 812.03375pt x 747.79375pt>
+<PNG/PopulationPyramideUkraine2013.PNG, id=200, 812.03375pt x 747.79375pt>
 File: PNG/PopulationPyramideUkraine2013.PNG Graphic file (type png)
 
 <use PNG/PopulationPyramideUkraine2013.PNG>
 Package pdftex.def Info: PNG/PopulationPyramideUkraine2013.PNG used on input li
-ne 228.
+ne 229.
 (pdftex.def)             Requested size: 324.80774pt x 299.1122pt.
 Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 233.
+(babel)             in language  on input line 239.
 Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 233.
+(babel)             in language  on input line 239.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 239.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 239.
+ [12]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 239.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 239.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 239.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 239.
+ [13 <./PNG/PopulationPyramideUkraine1959.PNG> <./PNG/PopulationPyramideUkraine
+2013.PNG>]
+<PNG/popdyn.png, id=212, 803.0pt x 260.975pt>
+File: PNG/popdyn.png Graphic file (type png)
+ <use PNG/popdyn.png>
+Package pdftex.def Info: PNG/popdyn.png used on input line 245.
+(pdftex.def)             Requested size: 481.80373pt x 156.5862pt.
+
+Overfull \hbox (12.33324pt too wide) in paragraph at lines 245--246
+ [][] 
+ []
+
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 250.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 250.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 260.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 260.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 263.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 263.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 263.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 263.
+[14 <./PNG/popdyn.png>] <PNG/airpol.png, id=225, 1127.71312pt x 581.17125pt>
+File: PNG/airpol.png Graphic file (type png)
+
+<use PNG/airpol.png>
+Package pdftex.def Info: PNG/airpol.png used on input line 266.
+(pdftex.def)             Requested size: 451.07726pt x 232.46437pt.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 274.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 274.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 275.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 275.
+
+./chapters/existing_systems.tex:275: Too many }'s.
+l.275 ...ion{Забруднення ґрунту}}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
 ) (./chapters/conclusions.tex
 Package babel Info: Redefining ukrainian shorthand "|
 (babel)             in language  on input line 3.
@@ -2605,8 +2667,7 @@ Package babel Info: Redefining ukrainian shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining ukrainian shorthand "~
 (babel)             in language  on input line 3.
-
-[12]
+ [15 <./PNG/airpol.png>]
 Package babel Info: Redefining ukrainian shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining ukrainian shorthand "~
@@ -2615,54 +2676,12 @@ Package babel Info: Redefining ukrainian shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining ukrainian shorthand "~
 (babel)             in language  on input line 3.
- [13 <./PNG/PopulationPyramideUkraine1959.PNG> <./PNG/PopulationPyramideUkraine
-2013.PNG>]
+ [16]
 Package babel Info: Redefining ukrainian shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining ukrainian shorthand "~
 (babel)             in language  on input line 3.
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 3.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 3.
- [14]
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 3.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 3.
-) (./thesis.bbl
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 1.
- [15
-
-]
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 1.
-
-Overfull \hbox (50.60657pt too wide) in paragraph at lines 44--50
-\T2A/Tempora-TLF/m/n/14.4 21700758-[]will-[]smarter-[]machines-[]cause-[]mass-[
-]unemployment-[]automation-[]and-[]anxiety$[]. ^^V
- []
-
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 92.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 92.
-Package babel Info: Redefining ukrainian shorthand "|
-(babel)             in language  on input line 92.
-Package babel Info: Redefining ukrainian shorthand "~
-(babel)             in language  on input line 92.
-[16
-
-])
+) (./thesis.bbl)
 
 Package caption Warning: Unused \captionsetup[table] on input line 275.
 See the caption package documentation for explanation.
@@ -2680,35 +2699,88 @@ Package babel Info: Redefining ukrainian shorthand "|
 (babel)             in language  on input line 78.
 Package babel Info: Redefining ukrainian shorthand "~
 (babel)             in language  on input line 78.
-[17]
+[17
+
+]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 78.
  (./thesis.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 78.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 78.
-Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 13171EB2A71F53757A81E035D96A94E9;3029.
 
+
+Package rerunfilecheck Warning: File `thesis.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `thesis.out':
+(rerunfilecheck)             Before: 490EA04241596719AA3EF4728532C130;3640
+(rerunfilecheck)             After:  7FDFA6F6E1E6B64305E482D1A1E39610;3466.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 18338 strings out of 492995
- 265066 string characters out of 6132703
- 340299 words of memory out of 5000000
- 21469 multiletter control sequences out of 15000+600000
+ 18359 strings out of 492995
+ 265437 string characters out of 6132703
+ 337517 words of memory out of 5000000
+ 21479 multiletter control sequences out of 15000+600000
  20480 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,10n,98p,1343b,615s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/tempora/t2a-tempora.enc}<
-/usr/local/texlive/2017/texmf-dist/fonts/type1/public/tempora/Tempora-Bold.pfb>
-</usr/local/texlive/2017/texmf-dist/fonts/type1/public/tempora/Tempora-Italic.p
-fb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/tempora/Tempora-Regul
-ar.pfb>
-Output written on thesis.pdf (16 pages, 1085389 bytes).
+ 68i,10n,98p,1348b,615s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{cite.airpol} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.brent} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.chinagdp} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.export2016} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Elections} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.nasacons} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.nasa} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.giniukr} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.ukrstatemployment} has been referenced but doe
+s not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.pwc} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{cite.econinfo} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.hopper2015practicing} has been referenced but 
+does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.MerriamWebster2009} has been referenced but do
+es not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.asimov1950robot} has been referenced but does 
+not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter*.12} has been referenced but does not exist
+, replaced by a fixed one
+
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/tempora/t2a-tempora.enc}</u
+sr/local/texlive/2017/texmf-dist/fonts/type1/public/tempora/Tempora-Bold.pfb></
+usr/local/texlive/2017/texmf-dist/fonts/type1/public/tempora/Tempora-Italic.pfb
+></usr/local/texlive/2017/texmf-dist/fonts/type1/public/tempora/Tempora-Regular
+.pfb>
+Output written on thesis.pdf (16 pages, 1451777 bytes).
 PDF statistics:
- 264 PDF objects out of 1000 (max. 8388607)
- 222 compressed objects within 3 object streams
- 59 named destinations out of 1000 (max. 500000)
- 172 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 272 PDF objects out of 1000 (max. 8388607)
+ 226 compressed objects within 3 object streams
+ 68 named destinations out of 1000 (max. 500000)
+ 206 words of extra memory for PDF output out of 10000 (max. 10000000)
 

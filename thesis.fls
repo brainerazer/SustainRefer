@@ -1,8 +1,8 @@
-PWD /Users/bohdan/Documents/refer_sustainable
+PWD /Users/bohdanrybak/Documents/pers/SustainRefer
 INPUT /usr/local/texlive/2017/texmf.cnf
 INPUT /usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/bohdan/Documents/refer_sustainable/thesis.tex
+INPUT /Users/bohdanrybak/Documents/pers/SustainRefer/thesis.tex
 OUTPUT thesis.log
 INPUT bachelor_thesis.cls
 INPUT bachelor_thesis.cls
@@ -22,7 +22,7 @@ INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/cyrillic/t2aenc.def
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/cyrillic/t2aenc.def
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/cyrillic/t2acmr.fd
-INPUT /Users/bohdan/Library/texlive/2017/texmf-var/fonts/tfm/lh/lh-t2a/larm1440.tfm
+INPUT /Users/bohdanrybak/Library/texlive/2017/texmf-var/fonts/tfm/lh/lh-t2a/larm1440.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/cmap/t2a.cmap
 OUTPUT thesis.pdf
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/cmap/t2a.cmap
@@ -301,6 +301,12 @@ INPUT ./PNG/PopulationPyramideUkraine1959.PNG
 INPUT PNG/PopulationPyramideUkraine2013.PNG
 INPUT ./PNG/PopulationPyramideUkraine2013.PNG
 INPUT ./PNG/PopulationPyramideUkraine2013.PNG
+INPUT PNG/popdyn.png
+INPUT ./PNG/popdyn.png
+INPUT ./PNG/popdyn.png
+INPUT PNG/airpol.png
+INPUT ./PNG/airpol.png
+INPUT ./PNG/airpol.png
 INPUT chapters/conclusions.tex
 INPUT chapters/conclusions.tex
 INPUT thesis.bbl
